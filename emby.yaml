@@ -12,7 +12,7 @@ payload:
   - DOMAIN-SUFFIX,servers.xeton.dev
   ## 无名 ##
   - DOMAIN-SUFFIX,emby2021.kozow.com
-  - DOMAIN-SUFFIX,https://152.70.101.19
+  - IP-CIDR,152.70.101.19
   ## CC ##
   - DOMAIN-SUFFIX,emby.jiasu.ga
   ## Peach ##
