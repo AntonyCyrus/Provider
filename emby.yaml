@@ -1,1 +1,19 @@
-
+payload:
+  ## TAG ##
+  - DOMAIN-SUFFIX,emby.riches.cloud
+  ## Emby Club ##
+  - DOMAIN-SUFFIX,jp.embyclub.vip
+  ## Netcup ##
+  - DOMAIN-SUFFIX,404.sb
+  ## 普拉斯 ##
+  - DOMAIN-SUFFIX,jellyfin.xeton.dev
+  - DOMAIN-SUFFIX,emby.xeton.dev
+  - DOMAIN-SUFFIX,movie.xeton.dev
+  - DOMAIN-SUFFIX,servers.xeton.dev
+  ## 无名 ##
+  - DOMAIN-SUFFIX,emby2021.kozow.com
+  - DOMAIN-SUFFIX,https://152.70.101.19
+  ## CC ##
+  - DOMAIN-SUFFIX,emby.jiasu.ga
+  ## Peach ##
+  - DOMAIN-SUFFIX,http://embymv.tk/
