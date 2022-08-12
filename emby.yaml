@@ -10,10 +10,12 @@ payload:
   - DOMAIN-SUFFIX,emby.xeton.dev
   - DOMAIN-SUFFIX,movie.xeton.dev
   - DOMAIN-SUFFIX,servers.xeton.dev
-  ## 无名 ##
-  - DOMAIN-SUFFIX,emby2021.kozow.com
-  - IP-CIDR,152.70.101.19
   ## CC ##
   - DOMAIN-SUFFIX,emby.jiasu.ga
   ## Peach ##
   - DOMAIN-SUFFIX,embymv.tk
+    ## 无名 ##
+  - DOMAIN-SUFFIX,emby2021.kozow.com
+  - IP-CIDR,152.70.101.19
+  - DOMAIN-SUFFIX,emby.guyuan.org
+  - DOMAIN-SUFFIX,emby.nmg.llc
