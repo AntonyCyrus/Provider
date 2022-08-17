@@ -2,7 +2,7 @@ payload:
   ## TAG ##
   - DOMAIN-SUFFIX,emby.riches.cloud
   ## Emby Club ##
-  - DOMAIN-SUFFIX,jp.embyclub.vip
+  - DOMAIN-SUFFIX,embyclub.vip
   - DOMAIN-SUFFIX,ha.emby.kim
   ## Netcup ##
   - DOMAIN-SUFFIX,404.sb
