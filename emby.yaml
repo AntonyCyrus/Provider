@@ -15,7 +15,9 @@ payload:
   - DOMAIN-SUFFIX,emby.jiasu.ga
   ## Peach ##
   - DOMAIN-SUFFIX,embymv.tk
-    ## 无名 ##
+  ##  蓝海  ##
+  - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+  ## 无名 ##
   - DOMAIN-SUFFIX,emby2021.kozow.com
   - IP-CIDR,152.70.101.19
   - DOMAIN-SUFFIX,emby.guyuan.org
