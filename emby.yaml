@@ -5,7 +5,7 @@ payload:
   - DOMAIN-SUFFIX,embyclub.vip
   - DOMAIN-SUFFIX,ha.emby.kim
   ## Netcup ##
-  - DOMAIN-SUFFIX,404.sb
+  - IP-CIDR,46.38.238.91
   ## 普拉斯 ##
   - DOMAIN-SUFFIX,jellyfin.xeton.dev
   - DOMAIN-SUFFIX,emby.xeton.dev
