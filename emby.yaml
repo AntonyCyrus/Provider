@@ -3,18 +3,21 @@ payload:
   - DOMAIN-SUFFIX,tagemby.com
   ## Emby Club ##
   - DOMAIN-SUFFIX,embyclub.vip
-  - DOMAIN-SUFFIX,emby.kim
+  - DOMAIN-SUFFIX,ha.emby.kim
   ## Netcup ##
   - DOMAIN-SUFFIX,404.sb
   ## 普拉斯 ##
   - DOMAIN-SUFFIX,xeton.dev
+  - DOMAIN-SUFFIX,emby-cf.plusmedia.site
   ## CC ##
-  - DOMAIN-SUFFIX,jiasu.ga
+  - DOMAIN-SUFFIX,emby.jiasu.ga
   ## Peach ##
   - DOMAIN-SUFFIX,embymv.tk
   ##  蓝海  ##
-  - DOMAIN-SUFFIX,blueseacdn.com
+  - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
+  ##  Misty ##
+  - DOMAIN-SUFFIX,aaa.ax
   ## 无名 ##
-  - DOMAIN-SUFFIX,kozow.com
-  - DOMAIN-SUFFIX,.org
+  - DOMAIN-SUFFIX,emby2021.kozow.com
+  - DOMAIN-SUFFIX,emby.guyuan.org
   - DOMAIN-SUFFIX,nmg.llc
