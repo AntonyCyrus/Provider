@@ -17,6 +17,8 @@ payload:
   - DOMAIN-SUFFIX,emby-pub1.blueseacdn.com
   ##  Misty ##
   - DOMAIN-SUFFIX,aaa.ax
+  ## Orange ##
+  - DOMAIN-SUFFIX,emby.52.al
   ## 无名 ##
   - DOMAIN-SUFFIX,emby2021.kozow.com
   - DOMAIN-SUFFIX,emby.guyuan.org
